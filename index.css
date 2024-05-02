@@ -1,0 +1,27 @@
+
+    div{
+            width: 350px;
+
+            display:inline-block;
+            vertical-align: top;
+        }
+    Span{
+        background-color: white; color: black; 
+    }
+  #Man{
+    text-align: center;
+    padding-left: 600px;
+    margin-left: 100px;
+  }
+  .test{
+    text-align: center;
+  }
+    span{
+        padding-right: 10px; background-color: gray;color: white;
+    }
+    .test1{
+        text-align: center;
+    }
+    #no{
+        margin left:100px;
+    }
